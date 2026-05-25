@@ -24,6 +24,7 @@ ps: 不要全相信任何AIGC，请人工复核。
 | research-summarizer | [here](https://www.skillhub.club/skills/alirezarezvani-claude-skills-research-summarizer) | 结构化总结论文、文章、报告和文档，支持关键发现提取、多来源对比和引用整理。 |
 | latex-writer | [here](https://www.skillhub.club/skills/openclaw-skills-latex-writer) | 从模板生成专业 LaTeX 文档，支持 IEEE/ACM 论文、中文 CTeX、CV 和自动编译 PDF。 |
 | paper-write | [here](https://github.com/xstongxue/best-skills/tree/main/skills/paper-write) | 本科与硕士论文全流程写作辅助，覆盖大纲审核、章节仿写、参考文献、润色、扩写、翻译和防 AIGC。 |
+| humanizer-zh | [here](./.codex/skills/humanizer-zh/SKILL.md) | 中文论文与技术文档降 AIGC 改写 |
 
 ## development
 
